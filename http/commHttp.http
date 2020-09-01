@@ -1,0 +1,11 @@
+### Server Alive
+HEAD http://localhost:3000/v1/api/docker/comm/docker
+Accept: application/json
+
+### Remote Docker Alive
+HEAD http://localhost:3000/v1/api/docker/comm/server
+Accept: application/json
+
+###
+
+

@@ -1,0 +1,15 @@
+HEAD http://localhost:3000/v1/api/docker/comm/docker
+Accept: application/json
+
+###
+
+HEAD http://localhost:3000/v1/api/docker/comm/server
+Accept: application/json
+
+###
+
+HEAD http://localhost:3000/v1/api/docker/comm/alive
+Accept: application/json
+
+###
+
